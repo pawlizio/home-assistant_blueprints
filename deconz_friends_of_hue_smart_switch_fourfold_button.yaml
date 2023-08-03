@@ -7,7 +7,7 @@ blueprint:
   input:
     remote:
       name: Remote
-      description: Senic remote
+      description: FoH remote switch
       selector:
         device:
           manufacturer: PhilipsFoH
