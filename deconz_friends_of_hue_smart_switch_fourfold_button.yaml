@@ -12,8 +12,6 @@ blueprint:
         device:
           manufacturer: PhilipsFoH
           model: FOHSWITCH            
-      manufacturer: IKEA of Sweden
-      model: TRADFRI remote control
     button_one_single_press:
       name: 1 button - Single press
       description: Action to run on a single press of the button 1
