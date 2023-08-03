@@ -10,7 +10,7 @@ blueprint:
       description: Senic remote
       selector:
         device:
-          integration: deconz
+          integration: deCONZ
           manufacturer: PhilipsFoH
           model: FOHSWITCH
     button_one_single_press:
