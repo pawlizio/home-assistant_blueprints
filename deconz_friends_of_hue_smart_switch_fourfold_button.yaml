@@ -7,7 +7,7 @@ blueprint:
   input:
     remote:
       name: Remote
-      description: Senic remote
+      description: FoH Remote Switches
       selector:
         device:
           integration: deCONZ
