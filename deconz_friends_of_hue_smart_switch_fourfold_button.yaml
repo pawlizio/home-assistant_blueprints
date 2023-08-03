@@ -11,7 +11,7 @@ blueprint:
       selector:
         device:
           manufacturer: PhilipsFoH
-          model: FOHSWITCH            
+          model: FOHSWITCH        
     button_one_single_press:
       name: 1 button - Single press
       description: Action to run on a single press of the button 1
